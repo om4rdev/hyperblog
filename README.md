@@ -1,2 +1,2 @@
 # hyperblog
-An incredible blog from Git Course
+An Amazing Hyperblog from Git Course
