@@ -51,3 +51,10 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer {
+    background:rgb(114, 78, 44);
+    color: rgb(243, 232, 211);
+    text-align:center;
+    padding: 0.3em;
+}
