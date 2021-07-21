@@ -11,7 +11,7 @@ body
 
 #cabecera
 {
-    background: rgb(114, 78, 44);
+    background: rgb(117, 95, 72);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -48,13 +48,13 @@ body
 }
 #post
 {
-    background: white;
+    background: rgb(252, 252, 252);
     padding: 1em;
 }
 
 #footer {
-    background:rgb(114, 78, 44);
-    color: rgb(243, 232, 211);
+    background:rgb(117, 95, 72);
+    color: wheat;
     text-align:center;
     padding: 0.3em;
 }
